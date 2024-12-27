@@ -1,0 +1,11 @@
+-mainColor: #23df92
+
+-headerBkg(gradient):
+light:#22f8a0
+dark: #259f6d
+
+-featuresSectiontxt: #5b5b5b
+
+-clientSectiontxt: #636363
+
+-sendBtnBkg: #259f6d
